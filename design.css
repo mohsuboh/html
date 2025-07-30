@@ -1,0 +1,7 @@
+ul li:nth-child(odd)
+{
+    /*background-color: red;*/
+    border-style:double;
+    border-color: blue;
+
+}
